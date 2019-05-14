@@ -1,0 +1,1 @@
+# roomspace-sts-service
